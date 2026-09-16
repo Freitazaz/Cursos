@@ -1,0 +1,17 @@
+Linguagem de programação -> É um conjunto de regras léxicas e sintáticas para se escrever um programa
+
+Léxica:
+Diz respeito à correção de palavras "isoladas"(ortográfia)
+
+Exemplo(Português)             Linguagem de Programação
+
+Cachorro = Correto             Main = Correto
+caxorro = incorreto            maim = Incorreto
+
+Sintática:
+Diz respeito à correção das sentenças(grámatica)
+
+Exemplo(Português)                          Linguagem de Programação
+
+O Cachorro está com fome = Correto          X=2+y;  Correto
+A cachorro está com fome = Incorreto        x=+2y;  Incorreto
