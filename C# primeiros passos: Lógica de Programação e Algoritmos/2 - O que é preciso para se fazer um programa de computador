@@ -1,0 +1,21 @@
+O que é preciso para se fazer um programa de computador?
+
+-------> Uma linguagem de programação
+
+O que é uma linguagem de programação? É um conjunto de regras léxicas e sintáticas para se escrever um programa
+léxica: Vocábulo, expressões que formam uma língua 
+Sintática: Gramática que estuda a organização das palavras 
+
+-------> Uma IDE
+
+O que é uma IDE? É um software usado para editar e testar o programa 
+
+-------> Um compilador
+
+O que é um compilador? Software utilizado para transformar o código fonte em código objeto
+código fonte: é o código escitor por nós humanos em linguagem legível
+código objeto: é a tradução desse conteúdo para linguagem de máquina(binária) feita por um compilador
+
+-------> Um gerador de código ou maquina virtual
+
+Transformam e executam instruções para que um programa funcione no computador
