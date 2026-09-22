@@ -1,0 +1,15 @@
+IDE - Ambiente integrado de desenvolvimento
+
+O que é uma IDE? É um conjunto de softwares utilizados para a construção de programas 
+Exemplos:
+C/C++ ---> Codeblocks
+Java ---> Eclipse, NetBeans
+C# ---> Microsoft Visual Studio
+
+Funcionalidades de uma IDE
+---> Edição de código(Indentação, autocompletar, destaque de palavras, etc...)
+---> Depuração e testes
+---> Construção do produto final(build)
+---> Sugestão de modelos(templates)
+---> Auxiliar em diversas tarefas do projeto
+---> Etc
