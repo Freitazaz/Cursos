@@ -1,0 +1,46 @@
+Compilação, interpretação, código fonte e objeto, máquina virtual
+
+Compilador transforma o código fonte(escrito pelo programador) em código objeto(código legivel a maquina)
+Máquina virtual permite que o código objeto seja executado
+
+Compilação:
+              compilador:
+              compilação                          Gerador de código
+Código fonte ---------------------> Código objeto -------------------> Código executavel --------> Execução
+              análise léxica
+              análise sintática
+Linguagens que tipicamente utilizam essa abordagem: C, C++
+
+
+
+Interpretação:
+             Interpretador:
+             interpretação
+Código fonte ---------------------------------> Execução
+             Análise léxica
+             Análise sintática
+             geração de códigos sob demanda
+Linguagens que tipicamente utilizam essa abordagem: PHP, JavaScript, Python, Ruby
+
+
+
+Abordagem Hibrida 
+             Compilador:                     Maquina virtual:
+             Precompilação                   Interpretação
+Código fonte ---------------------> ByteCode --------------------------------> Execução
+              Análise léxica                 geração de códigos sob demanda
+              Análise Sintática
+Linguagens que tipicamente utilizam essa abordagem: C#(Microsoft .NET Framework), Java(JVM)
+
+
+
+Vantagens:
+
+Compilação:                                                                                        AbordagemHibrida:
+->Velocidade do programa                                                                           ->Velocidade do programa                                                                           
+->Auxilio do compilador antes da execução                                                          ->Auxilio do compilador antes da execução
+                                                                                                   ->Flexibilidade de manutenção do aplicativo em produção
+Interpretação:                                                                                     ->Código fonte não precisa ser recompilado para rodar em plataformas diferentes
+->Flexibilidade de manutenção do aplicativo em produção
+->Expressividade da linguagem
+->Código fonte não precisa ser recompilado para rodar em plataformas diferentes
